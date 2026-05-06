@@ -1,6 +1,4 @@
-<img src="https://media.tenor.com/P0fD1VNR2wQAAAAe/confused-unga-bunga.png" alt="Description" width="600">
-
-<h6> RESULTS ^_^ </h6>
+> **Для скрінів результатів листати вниз**
 
 <img width="1795" height="916" alt="image" src="https://github.com/user-attachments/assets/de71cb21-d8d7-40bb-a5fb-d7d40f7fdebc" />
 
@@ -11,6 +9,10 @@
 <img width="1799" height="827" alt="image" src="https://github.com/user-attachments/assets/1b656614-eb00-4223-b220-5832698dfc2c" />
 
 <img width="1813" height="917" alt="image" src="https://github.com/user-attachments/assets/e5fa8ea7-6841-457f-8646-ecc6448a9452" />
+
+
+<img src="https://media.tenor.com/P0fD1VNR2wQAAAAe/confused-unga-bunga.png" alt="Description" width="600">
+
 
 
 
